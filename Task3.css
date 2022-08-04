@@ -1,0 +1,25 @@
+.accordion {
+  background-color: blue;
+  color: aliceblue;
+  cursor: pointer;
+  padding: 20px;
+  width: 100%;
+  text-align: left;
+  transition: 0.4s;
+}
+.panelInvisible {
+  padding: 0 20px;
+  background-color: aqua;
+  border: 2px solid black;
+  color: aliceblue;
+  display: none;
+  overflow: hidden;
+}
+.panelVisible {
+  padding: 0 20px;
+  background-color: aqua;
+  border: 2px solid black;
+  color: aliceblue;
+  display: block;
+  overflow: hidden;
+}

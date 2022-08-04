@@ -1,0 +1,12 @@
+.container {
+  width: 1000px;
+  height: 600px;
+  margin: auto;
+  background-color: rgb(161, 161, 202);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.img {
+  height: 600px;
+}

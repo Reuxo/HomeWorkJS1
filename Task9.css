@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+.block {
+  background-color: bisque;
+  margin: auto;
+}
+table {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+  border: 1px solid;
+  letter-spacing: 1px;
+}
